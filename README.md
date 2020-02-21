@@ -5,7 +5,8 @@
 3. Go to google image search and download an image that you like.
 4. Copy that image to your folder
 3. Add that image to your site.
-```<<img src="imagename.jpg" alt=alternative text" width="500" height="600">```
+```
+<img src="imagename.jpg" alt=alternative text" width="500" height="600">```
 
 
 
